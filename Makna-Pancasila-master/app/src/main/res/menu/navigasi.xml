@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<group
+		android:id="@+id/tes"
+		android:checkableBehavior="single">
+		<item
+			android:id="@+id/nav_dasar"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="Inicio" />
+		<item
+			android:id="@+id/nav_sejarah"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="Sobre" />
+		<item
+			android:id="@+id/nav_sila0"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Oracao" />
+		<item
+			android:id="@+id/nav_sila1"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar1" />
+		<item
+			android:id="@+id/nav_sila2"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar2" />
+		<item
+			android:id="@+id/nav_sila3"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar3" />
+		<item
+			android:id="@+id/nav_sila4"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar4" />
+		<item
+			android:id="@+id/nav_sila5"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar5" />
+		<item
+			android:id="@+id/nav_sila6"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar6" />
+		<item
+			android:id="@+id/nav_sila7"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar7" />
+		<item
+			android:id="@+id/nav_sila8"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar8" />
+		<item
+			android:id="@+id/nav_sila9"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar9" />
+		<item
+			android:id="@+id/nav_sila10"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar10" />
+		<item
+			android:id="@+id/nav_sila11"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar11" />
+		<item
+			android:id="@+id/nav_sila12"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar12" />
+		<item
+			android:id="@+id/nav_sila13"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar13" />
+		<item
+			android:id="@+id/nav_sila14"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar14" />
+		<item
+			android:id="@+id/nav_sila15"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar15" />
+		<item
+			android:id="@+id/nav_sila16"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar16" />
+		<item
+			android:id="@+id/nav_sila17"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar17" />
+		<item
+			android:id="@+id/nav_sila18"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar18" />
+		<item
+			android:id="@+id/nav_sila19"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar19" />
+		<item
+			android:id="@+id/nav_sila20"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar20" />
+		<item
+			android:id="@+id/nav_sila21"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar21" />
+		<item
+			android:id="@+id/nav_sila22"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar22" />
+		<item
+			android:id="@+id/nav_sila23"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar23" />
+		<item
+			android:id="@+id/nav_sila24"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar24" />
+		<item
+			android:id="@+id/nav_sila25"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar25" />
+		<item
+			android:id="@+id/nav_sila26"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar26" />
+		<item
+			android:id="@+id/nav_sila27"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar27" />
+		<item
+			android:id="@+id/nav_sila28"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar28" />
+		<item
+			android:id="@+id/nav_sila29"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar29" />
+		<item
+			android:id="@+id/nav_sila30"
+			android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			android:title="@string/Bar30" />
+
+
+		<item
+			android:id="@+id/nav_exit"
+			android:icon="@drawable/ic_exit_to_app_black_24dp"
+			android:title="@string/BarExit" />
+	</group>
+</menu>
